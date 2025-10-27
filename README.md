@@ -1,8 +1,7 @@
 
 
   <header>
-    <img src="IMG_20250322_111848_870.jpg" alt=" Isaac Teye " />
-    <h1>👋 Hi, I'm <span class="highlight">Teye Isaac Nomo</span></h1>
+    <h1>👋 Hi, I'm <span class="highlight">Isaac Teye </span></h1>
     <h3>🚀 Frontend Developer | 🌍 Aspiring Software Engineer | 🤖 AI Enthusiast</h3>
     <p class="typing">💡 Creative Problem Solver | 🎯 Building Web & AI Solutions | 🌱 ALX Learner</p>
   </header>
