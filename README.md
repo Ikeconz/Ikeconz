@@ -9,7 +9,7 @@
   <section>
     <h2>🧭 About Me</h2>
     <p>👨‍💻 I’m currently a <strong>Frontend Development learner at ALX Africa</strong>, exploring modern web technologies and user-centered design. My journey into <strong>Software Engineering</strong> is driven by creativity, problem-solving, and the desire to use <strong>AI in Education</strong> for social good.</p>
-    <h2>🎯 <strong>Vision:</strong> <h2>
+    <h2>🎯 <strong>Vision:</strong> </h2>
       <p>To become a <strong>Software Engineer</strong> who uses creativity and technology to solve real-world problems, build meaningful projects, and make life easier for communities.</p>
 
   <section>
